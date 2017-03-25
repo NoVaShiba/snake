@@ -3,3 +3,4 @@ C:\Users\Ярослав и Владислав\Desktop\файлы\snake\snake\sna
 C:\Users\Ярослав и Владислав\Desktop\файлы\snake\snake\snake\bin\Debug\snake.pdb
 C:\Users\Ярослав и Владислав\Desktop\файлы\snake\snake\snake\obj\Debug\snake.exe
 C:\Users\Ярослав и Владислав\Desktop\файлы\snake\snake\snake\obj\Debug\snake.pdb
+C:\Users\Ярослав и Владислав\Desktop\файлы\snake\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
